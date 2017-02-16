@@ -1,5 +1,9 @@
 Haiku
 =======================
+
+---------------
+678
+=====================
 **[Homepage](https://www.haiku-os.org/)
 | [Mailing Lists](https://www.haiku-os.org/community/ml)
 | [IRC Channels](https://www.haiku-os.org/community/irc)
